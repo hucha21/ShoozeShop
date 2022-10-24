@@ -1,9 +1,9 @@
 <?php 
-$servername = "localhost";
-$username = "root";
+$servername = ;
+$username = ;
 $password = "";
-$dbname = "bazapodataka";
-$message = "Neispravan unos podataka.";
+$dbname = ;
+$message = ;
 // Create connection
 global $konekcija;
 $konekcija = new mysqli($servername, $username, $password, $dbname);
